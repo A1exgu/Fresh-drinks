@@ -19,3 +19,4 @@ Equipment:
 Sling glass
 Cocktail shaker
 Blender
+straw
